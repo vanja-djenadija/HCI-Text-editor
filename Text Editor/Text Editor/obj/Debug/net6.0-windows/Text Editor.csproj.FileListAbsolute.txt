@@ -1,0 +1,27 @@
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.csproj.AssemblyReference.cache
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\App.g.cs
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor_MarkupCompile.cache
+C:\Projects\test\Text Editor\Text Editor\bin\Debug\net6.0-windows\Text Editor.exe
+C:\Projects\test\Text Editor\Text Editor\bin\Debug\net6.0-windows\Text Editor.deps.json
+C:\Projects\test\Text Editor\Text Editor\bin\Debug\net6.0-windows\Text Editor.runtimeconfig.json
+C:\Projects\test\Text Editor\Text Editor\bin\Debug\net6.0-windows\Text Editor.dll
+C:\Projects\test\Text Editor\Text Editor\bin\Debug\net6.0-windows\Text Editor.pdb
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.g.resources
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.AssemblyInfoInputs.cache
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.AssemblyInfo.cs
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.csproj.CoreCompileInputs.cache
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.csproj.CopyComplete
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.dll
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\refint\Text Editor.dll
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.pdb
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.genruntimeconfig.cache
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\ref\Text Editor.dll
+C:\Projects\test\Text Editor\Text Editor\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Projects\test\Text Editor\Text Editor\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor_MarkupCompile.lref
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\App.baml
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\FindDialog.g.cs
+C:\Projects\test\Text Editor\Text Editor\obj\Debug\net6.0-windows\FindDialog.baml

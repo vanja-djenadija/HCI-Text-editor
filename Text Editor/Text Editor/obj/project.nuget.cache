@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KD7aepojFO92EQjsZhBVoPr9pRqZKigTRSXTM7NFZp6Uzbg0ULVBxjatQl9hV0qkZrY1DFPWP05JeKLlDlSsIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\test\\Text Editor\\Text Editor\\Text Editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
